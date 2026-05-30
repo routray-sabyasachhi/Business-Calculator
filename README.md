@@ -69,10 +69,11 @@ Business Calculator is a modern web application designed to perform essential fi
 Add your project screenshots here:
 
 ```
-assets/
-├── screenshot1.png
-├── screenshot2.png
-└── screenshot3.png
+Screenshots/
+├── image1.png
+├── image2.png
+├── image3.png
+└── image4.png
 ```
 
 ---
@@ -109,12 +110,11 @@ in your browser.
 Business-Calculator/
 │
 ├── index.html
-├── style.css
-├── script.js
+├── index.css
+├── index.js
 │
-├── assets/
-│   ├── images/
-│   └── screenshots/
+├── Screenshots/
+│   
 │
 └── README.md
 ```
